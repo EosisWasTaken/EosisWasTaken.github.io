@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+#### Welcome to my place!
 
-You can use the [editor on GitHub](https://github.com/EosisWasTaken/EosisWasTaken.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Who am I?
+I am Antoine.c, a 16 years old french student and aspiring (game) developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# What are my projects?
+For now, I'm just experimenting things with *Python*. I also plan to make apps with *JS*, but for now Python takes all my time (I don't have that mcuh time)
+My current projects:
+* Text-based RPG game in Python (my first project!)
+* A little platformer with [Godot engine](http://godotengine.org)
+* Some other little projects (I may upload them in a repo for these types of projects one day)
+* More "serious stuff" with Python: Homework and computer/programming classes (4h/week, and then 6h/week the next year)
 
-### Markdown
+# What are my other hobbies?
+I like programming **a lot**, but I also like:
+* Reading
+* Playing video games (League of Legends w/ friends, Albion Online, Minecraft and some other casual games)
+* Writing things
+* Making tabletop RPGs and small boardgames!
+* Discovering new ways of creating things (like PuzzleScript, Bitsy... These are all original and fun ways to create things!)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EosisWasTaken/EosisWasTaken.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Alright that's all for now, I may add other questions later, cya :smile:
