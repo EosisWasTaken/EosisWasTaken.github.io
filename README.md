@@ -19,4 +19,4 @@ I like programming **a lot**, but I also like:
 * Making tabletop RPGs and small boardgames!
 * Discovering new ways of creating things (like PuzzleScript, Bitsy... These are all original and fun ways to create things!)
 
-Alright that's all for now, I may add other questions later, cya :smile:
+Alright that's all for now, I may add other questions later, cya :)
